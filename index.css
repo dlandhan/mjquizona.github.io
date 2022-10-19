@@ -722,6 +722,9 @@ body {
   .contacts__content h2 {
     font-size: 0.8rem;
   }
+  #msgSent {
+    transform: scale(0.8);
+  }
 }
 
 .copyRight {
